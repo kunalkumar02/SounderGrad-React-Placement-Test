@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SounderGrad-React-Placement-Test/static/css/main.4f0bb9dc.css",
+    "main.js": "/SounderGrad-React-Placement-Test/static/js/main.0426d40e.js",
+    "index.html": "/SounderGrad-React-Placement-Test/index.html",
+    "main.4f0bb9dc.css.map": "/SounderGrad-React-Placement-Test/static/css/main.4f0bb9dc.css.map",
+    "main.0426d40e.js.map": "/SounderGrad-React-Placement-Test/static/js/main.0426d40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0bb9dc.css",
+    "static/js/main.0426d40e.js"
+  ]
+}
